@@ -1,1 +1,1 @@
-hoge
+<Docutype html>
